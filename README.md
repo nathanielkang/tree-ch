@@ -16,7 +16,7 @@ MOA (Massive Online Analysis) it the base framework that we used for ch.
 
 ### Application
 Please download this application
-* [moa-ch.jar](https://drive.google.com/file/d/1IrMA1-yy1QJVlXHa7x66h4jUqFW-6INj/view?usp=sharing) - Application jar file (25 MB).
+* [moa-ch.jar](https://drive.google.com/file/d/1IrMA1-yy1QJVlXHa7x66h4jUqFW-6INj/view?usp=sharing) - Application jar file (12 MB).
 
 ### Script to run LearnModel FIMT-DD-ch
 ```
